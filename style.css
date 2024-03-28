@@ -1,0 +1,83 @@
+.main-body{
+    background: linear-gradient(rgb(255, 255, 183), rgb(163, 236, 163),#b7b7ff);
+}
+.main-page{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px 35px 0 35px;
+}
+.details{
+    font-size: larger;
+}
+.main-2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px 35px 0 35px;
+}
+.details-2{
+    font-size: larger;
+}
+.main-3{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px 35px 0 35px;
+}
+.details-3{
+    font-size: larger;
+    padding: 10px 35px 0 35px;
+}
+.direction-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-template-rows: 1fr 1fr ;
+    gap: 40px;
+}
+.main-4{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0px 35px 0 35px;
+}
+.sub-details{
+    padding-top: 40px;
+    font-size: larger;
+}
+.main-5{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px 35px 0 35px;
+}
+.nutrition{
+    padding: 10px 35px 0 35px;
+}
+.nutrition>p{
+font-size: larger;
+}
+.form1{
+    margin: 100px 30%;
+    position: absolute;
+    z-index: 2;
+    width: 500px;
+}
+.form2{
+    margin: 200px 30%;
+    position: absolute;
+    z-index: 2;
+    width: 500px;
+}
+.feedback-bg{
+    height: 100vh;
+    width: 100vw;
+}
+.footer-btn{
+    display:grid;
+    grid-template-rows: 1fr 1fr;
+    justify-content: center;
+}
+.recipe-page{
+    margin: 100px;
+}
+.your-recipes-body{
+    height: 100vh;
+    background: linear-gradient(rgb(255, 255, 183), rgb(163, 236, 163),#b7b7ff);
+}
+
